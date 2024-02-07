@@ -29,4 +29,6 @@
 ![Captura de tela_7-2-2024_111649_127 0 0 1](https://github.com/americorodrigues25/PulseFit-Academia/assets/152452192/e3286671-2723-426e-b5c7-8df51100bc59)
 
 #### Acesse agora mesmo pelo link:
+https://pulse-fit-academia.vercel.app
+
 
